@@ -2,7 +2,7 @@
 
 This Python script leverages the ReportLab library to generate a professional, dark-themed PDF resume. It uses a class-based approach (`ResumeBuilder`) combining low-level canvas operations for layout control with Platypus `Paragraph` objects for rich text formatting (including bold, italics, and clickable links).
 
-![resume_example](https://firebasestorage.googleapis.com/v0/b/shortformfunnels.appspot.com/o/resume_example.png?alt=media&token=5a9c6762-5cc4-4f11-bc51-7f449d66baad)
+<img src="https://firebasestorage.googleapis.com/v0/b/shortformfunnels.appspot.com/o/resume_example.png?alt=media&token=5a9c6762-5cc4-4f11-bc51-7f449d66baad" alt="Resume" height="1000"/><br/>
 
 ## Features
 
